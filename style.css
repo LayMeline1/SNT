@@ -1,0 +1,58 @@
+body {
+
+background-color: #fdf6e3;
+
+font-family: Arial, sans-serif;
+
+text-align: center;
+
+}
+
+h1 {
+
+color: palevioletred;
+
+}
+
+h2 {
+
+color: #2c3e9e;
+
+}
+
+ol {
+
+text-align: left;
+
+}
+
+
+p {
+
+color: charcoal;
+
+font-size: 18px;
+
+text-align: left;
+
+}
+
+img {
+
+width: 300px;
+
+border-radius: 10px;
+
+}
+
+.image-centree {
+
+    display: block;
+    margin: auto;
+}
+
+.texte-droite {
+    text-align: right;
+    color: #8B4513;
+    font-size: 20px;
+}
